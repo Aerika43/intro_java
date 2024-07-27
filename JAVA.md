@@ -19,4 +19,19 @@
 #### JAVA RUNTIME ENVIRONMENT Helps in excuting programs developed in JAVA.
 ---
 # Basic Structure of JAVA Programs
-####
+## Syantax
+
+```java
+package Basic;
+
+public class Main{
+       public static void main(String[] args){
+        System.out.print("Hello World");
+}
+```
+---
+### Output : Hello World
+---
+###Explaination
+- public =  this keyword is used so that we can access the class from anywhere.
+- 
