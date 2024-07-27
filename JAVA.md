@@ -14,5 +14,7 @@
 #### -Go to Google and type "Install IntelliJ Idea"
 ---
 # JDK
-#### JAVA DEVELOPMENT  KIT
+#### JAVA DEVELOPMENT  KIT Collection of tools used for developing and running JAVA programs.
+# JRE
+#### JAVA RUNTIME ENVIRONMENT Helps in excuting programs developed in JAVA.
 
