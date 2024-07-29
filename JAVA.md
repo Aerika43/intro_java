@@ -18,9 +18,8 @@
 # JRE
 #### JAVA RUNTIME ENVIRONMENT Helps in excuting programs developed in JAVA.
 ---
-# Basic Structure of JAVA Programs
-## Syantax
-
+# Java Syntax
+Main.java
 ```java
 package Basic;
 
@@ -32,6 +31,25 @@ public class Main{
 ---
 ### Output : Hello World
 ---
-###Explaination
+### Explaination
+
+#### Every line of code that runs in Java must be inside a class. In our example, we named the class Main. A class should always start with an uppercase first letter.
+
+#### The name of the java file must match the class name. When saving the file, save it using the class name and add ".java" to the end of the filename.
+
+#### Any code inside the main() method will be executed.
+
+#### Each code statement must end with a semicolon (;).
+
 - public =  this keyword is used so that we can access the class from anywhere.
-- 
+- function = collection of code , functions are also known as Methods.
+- void = void keyword specifies that a method should not have a return value.
+- String[] args = means an array [] of sequence of characters ("String") that are passed to thr main function.
+- System.out.print("Hello World");
+
+  class   var   function/method  (standard output stream)
+
+  ---
+//# JAVA Output / Input
+//## 
+  
