@@ -17,5 +17,12 @@
   eg: int 1name; is invalid
 - name is case sensitive
   eg: Aerika and aerika are different!
-- should not be a keyword  
- 
+- should not be a keyword
+  eg: void
+- white space is invalid
+  eg: int hello world;
+---
+  ## Data Types
+  #### Data Types in Java falls under the following categories
+### 1. Primitive Data Types (Intrinsic)
+### 2. Non-Primitive Data Types (Derived) 
