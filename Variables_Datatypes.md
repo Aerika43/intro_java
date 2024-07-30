@@ -34,8 +34,9 @@
 
 ![alt text](datatype.PNG)
 
-### Integeral
+### Integer Types
 - byte
 - short
 - int
 - long
+### 
