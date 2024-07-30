@@ -22,7 +22,12 @@
 - white space is invalid
   eg: int hello world;
 ---
-  ## Data Types
-  #### Data Types in Java falls under the following categories
+## Data Types
+#### Data Types in Java falls under the following categories
 ### 1. Primitive Data Types (Intrinsic)
 ### 2. Non-Primitive Data Types (Derived) 
+---
+## Primitive Data Types
+#### A primitive data type specifies the size and type of variable values, and it has no additional methods.
+#### Java is Statically Typed ... variables must be declared before use!
+#### There are eight primitive data types in Java:
