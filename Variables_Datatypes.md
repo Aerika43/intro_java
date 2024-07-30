@@ -36,7 +36,25 @@
 
 ### Integer Types
 - byte
+  #### Example
+  ```java
+  byte myNum = 100;
+  System.out.println(myNum);
+ 
+```
 - short
+   #### Exampl
+    ```java
+     short myNum = 5000;
+     System.out.println(myNum);
+```
 - int
 - long
-### 
+### Floating Point Types
+- float
+- double
+### Boolean Types
+- boolean
+### Characters
+- String
+- char
