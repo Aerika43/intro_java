@@ -31,4 +31,11 @@
 #### A primitive data type specifies the size and type of variable values, and it has no additional methods.
 #### Java is Statically Typed ... variables must be declared before use!
 #### There are eight primitive data types in Java:
-![alt text](datatype.png)
+
+![alt text](datatype.PNG)
+
+### Integeral
+- byte
+- short
+- int
+- long
