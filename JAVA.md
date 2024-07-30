@@ -50,6 +50,4 @@ public class Main{
   class   var   function/method  (standard output stream)
 
   ---
-//# JAVA Output / Input
-//## 
   
