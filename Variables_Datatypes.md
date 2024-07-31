@@ -42,7 +42,7 @@
   byte myNum = 100;
   System.out.println(myNum);
   ```
-  ### Output : 100
+  #### Output : 100
 ---
 - short
   #### Example
@@ -50,7 +50,7 @@
   short myNum = 5000;
   System.out.println(myNum);
   ```
-  ### Output : 5000
+  #### Output : 5000
  ---
 - int
   #### Example
@@ -58,7 +58,7 @@
   int myNum = 100000;
   System.out.println(myNum);
   ```
-  ### Output : 100000
+  #### Output : 100000
   ---
 - long
   #### Example
@@ -66,7 +66,7 @@
   long myNum = 15000000000L;
   System.out.println(myNum);
   ```
-  ### Output : 15000000000
+  #### Output : 15000000000
 ---
 ### Floating Point Types
 - float
@@ -75,7 +75,7 @@
   float myNum = 5.75f;
   System.out.println(myNum);
   ```
-  ### Output : 5.75
+  #### Output : 5.75
   ---
 - double
 #### Example
@@ -83,7 +83,7 @@
   double myNum = 19.99d;
   System.out.println(myNum);
 ```
-### Output : 19.99
+#### Output : 19.99
 ---
 ### Boolean Types
 - boolean
@@ -94,7 +94,7 @@ boolean isFishTasty = false;
 System.out.println(isJavaFun);     // Outputs true
 System.out.println(isFishTasty);   // Outputs false
 ```
-### Output : true      false
+#### Output : true      false
 ---  
 ### Characters
 - String
@@ -103,7 +103,7 @@ System.out.println(isFishTasty);   // Outputs false
 String greeting = "Hello World";
 System.out.println(greeting);
 ```
-### Output : Hello World
+#### Output : Hello World
 ---
 - char
 #### Example
@@ -111,5 +111,5 @@ System.out.println(greeting);
 char myGrade = 'B';
 System.out.println(myGrade);
 ```
-### Output : B 
+#### Output : B 
 ---
