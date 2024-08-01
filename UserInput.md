@@ -17,6 +17,9 @@ public class main{
 ```
 ## Input Types
 
-![alt text](userinput.PNG)
+#### There are eight primitive data types in Java:
 
+![alt text](userinput types.PNG)
+
+### Integer Types
 ### hjsd
