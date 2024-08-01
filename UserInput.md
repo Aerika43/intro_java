@@ -15,3 +15,7 @@ public class main{
     }
 }
 ```
+## Input Types
+---
+![alt text](userinput.png)
+---
