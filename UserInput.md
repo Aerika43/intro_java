@@ -16,6 +16,7 @@ public class main{
 }
 ```
 ## Input Types
----
-![alt text](userinput.png)
----
+
+![alt text](userinput.PNG)
+
+### hjsd
