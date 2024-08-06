@@ -5,9 +5,9 @@
 #### Java = Purely Object Oriented
 ---
 # How JAVA Works ?
-#### Java is compiled into the bytecode and then it is interpreted to machine code
+#### Java is compiled into the bytecode and then it is interpreter to machine code
 
-#### SOURCE CODE ---> complied ------> BYTECODE ---> interpreted ------> MACHINE CODE
+#### SOURCE CODE ---> complied ------> BYTECODE ---> interpreter ------> MACHINE CODE
 ---
 # JAVA Installation
 #### -Go to Google and type "Install JDK"
