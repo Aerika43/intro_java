@@ -24,21 +24,28 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
-    Scanner myObj = new Scanner(System.in);
+   Scanner sc = new Scanner(System.in);
+    System.out.println("String (with spacing): ");
+    String s = sc.nextLine();
 
-    System.out.println("Enter name, age and salary:");
+    System.out.println("String (no spacing): ");
+    String s1 = sc.next();
+    
+    System.out.println("Integer: ")
+    int i = sc.nextInt();
 
-    // String input
-    String name = myObj.nextLine();
+    System.out.println("Float: ")
+    float f = sc.nextFloat();
 
-    // Numerical input
-    int age = myObj.nextInt();
-    double salary = myObj.nextDouble();
+    System.out.println("Double: ")
+    double d = sc.nextDouble();
 
-    // Output input by user
-    System.out.println("Name: " + name);
-    System.out.println("Age: " + age);
-    System.out.println("Salary: " + salary);
+    System.out.println("Boolean: ")
+    boolean b = sc.nextBoolean();
+
+    System.out.println("Long: ")
+    long l = sc.nectLong();
+ 
   }
 }
 ```
