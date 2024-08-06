@@ -44,7 +44,7 @@ class Main {
     boolean b = sc.nextBoolean();
 
     System.out.println("Long: ")
-    long l = sc.nectLong();
+    long l = sc.nextLong();
  
   }
 }
