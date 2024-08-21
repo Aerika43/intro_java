@@ -1,4 +1,5 @@
 # OPERATORS
+
 #### Operators are used to perform operations on variables and values.
 ### Example :
 ```java
@@ -9,8 +10,10 @@ public class Main {
   }
 }
 ```
+
 #### Explaination: int x --> Result ; 100 --> Operand ; + --> Operator ; 50 --> Operand
 ---
+
 ## Types Of Operators
 ### Java divides the operators into the following groups:
 
@@ -23,4 +26,4 @@ public class Main {
 
 ## Arithmetic Operators
 ### Arithmetic operators are used to perform common mathematical operations.
-img()
+![alt text](userinput.png)
