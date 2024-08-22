@@ -27,4 +27,4 @@ public class Main {
 ## Arithmetic Operators
 ### Arithmetic operators are used to perform common mathematical operations.
 
-![alt text](Arithmetic Operator.PNG)
+![alt text](ArithmeticOperator.PNG)
