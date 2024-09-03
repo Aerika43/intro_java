@@ -42,7 +42,6 @@ public class Main {
 }
 ```
 #### OUTPUT : 8
-
 #### SUBRACTION
 ```java
 public class Main {
